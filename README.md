@@ -14,21 +14,29 @@
 
 ---
 
-## 🚀 Projects I'm Building
+
+## 🚀 Featured Projects
 
 ### 🎓 ScholarTrack — Student Academic Dashboard
-A full-stack application designed to help students manage courses, assignments, deadlines, and academic performance.
+A full-stack application for managing courses, assignments,
+deadlines, grades, and academic progress.
 
-**Planned Stack:** Python, FastAPI, SQLite, PostgreSQL, HTML, CSS, JavaScript.
+**Tech Stack:** Python, FastAPI, SQLite, HTML, CSS, JavaScript
 
-**Status:** Planning & Development
+**Status:** 🏗️ In Planning
 
-### 🌐 DevPortfolio — Personal Portfolio Website
-A responsive personal website showcasing my projects, technical skills, education, and professional experience.
+### 🌐 DevPortfolio — Personal Website
+A responsive developer portfolio showcasing my projects,
+technical skills, experience, and software engineering journey.
 
-**Planned Stack:** HTML, CSS, JavaScript, GitHub Pages.
+**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
 
-**Status:** Planning & Development
+**Status:** 🏗️ In Planning
+
+---
+
+💡 More projects coming as I continue learning and building!
+
 
 ---
 
